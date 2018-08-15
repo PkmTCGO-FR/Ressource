@@ -7,7 +7,7 @@ Si tu souhaites partager ta deck liste et que tu es stratège, il te faut suivre
 
 * Va dans Model.md puis clique sur "Raw"
 * Copie tous le texte !!!
-* Ouvre un éditeur de texte (exemple : Bloc-Notes de Windows) puis colle en remplacant ce qu'il faut remplace
-* Fais une capture d'ecran
-* Renomme Model.md et l'image avec le nom de ton deck
-* Envoye-nous l'image et la liste dans la salle Discord #deck-liste
+* Fait une capture d'écran de ta deck liste
+* Ouvre un éditeur de texte (ex : Bloc-Notes de Windows) puis coller en remplaçant ce qu'il faut remplacer et enregistre ta modification
+* Renomme les par le nom de ta deck liste.
+* Envoyez-nous l'image et la deck liste dans le sallon du Discord #deck-liste
