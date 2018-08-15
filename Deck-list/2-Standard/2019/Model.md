@@ -7,7 +7,7 @@
 Remplacer moi par votre explication
 
 
-<br><br><br>
+<br><br>
 
 
 Remplacer moi par votre Deck list
