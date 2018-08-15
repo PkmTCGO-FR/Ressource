@@ -2,8 +2,9 @@
 
 Voici des listes et des ressources pour le JCC Pokemon en ligne!
 
-<br>
+<br><br>
 Si tu souhaites partager ta deck liste et que tu es stratège, il te faut suivre les étapes suivante :
+
 
 * Va dans Model.md puis clique sur "Raw"
 * Copie tous le texte !!!
