@@ -1,6 +1,7 @@
 # Ressources pour PTCGO!
 
 Voici des listes et des ressources pour le JCC Pokemon en ligne!
+
 <br>
 Si tu souhaites partager ta deck liste et que tu es stratège, il te faut suivre les étapes suivante :
 
