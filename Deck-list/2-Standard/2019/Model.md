@@ -12,4 +12,4 @@ Remplacer moi par votre Deck list
 
 
 
-![alt text](exemple.png)
+![alt text](Model.png)
