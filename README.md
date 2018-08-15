@@ -7,7 +7,7 @@ Si tu souhaites partager ta deck liste et que tu es stratège, il te faut suivre
 
 * Va dans Model.md puis clique sur "Raw"
 * Copie tous le texte !!!
-* Fait une capture d'écran de ta deck liste
 * Ouvre un éditeur de texte (ex : Bloc-Notes de Windows) puis coller en remplaçant ce qu'il faut remplacer et enregistre ta modification
+* Fait une capture d'écran de ta deck liste à partir de TCGO
 * Renomme les par le nom de ta deck liste.
 * Envoyez-nous l'image et la deck liste dans le sallon du Discord #deck-liste
