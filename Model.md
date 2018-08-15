@@ -5,7 +5,7 @@
 Remplacer moi par votre explication (si besoin)
 
 
-Remplacer moi par votre Deck list
+Remplacer moi par votre Deck liste
 
 
 ![alt text](Model.png)
