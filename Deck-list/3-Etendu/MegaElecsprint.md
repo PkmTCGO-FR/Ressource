@@ -43,4 +43,4 @@ Nombre de cartes - 60
 
 ** Liste générée par le JCC Pokémon Online [www.pokemon.fr/JCCO] **
 
-![alt text](img/MegaManectric.png)
+![alt text](img/MegaElecsprint.png)
