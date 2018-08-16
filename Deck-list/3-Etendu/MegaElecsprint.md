@@ -1,4 +1,4 @@
-# Mega Manectric
+# Mega Elecsprint
 
 ** Liste de deck du JCC Pokémon **
 
