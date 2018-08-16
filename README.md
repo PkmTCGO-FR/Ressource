@@ -10,8 +10,8 @@ Si tu souhaites partager ta deck liste et que tu es stratège, il te faut suivre
 
 * Copie tous le texte !!!
 
-* Ouvre un éditeur de texte (ex : Bloc-Notes de Windows) puis colle et remplaçe ce qu'il faut remplacer, oublie pas d'enregistre tes  
-  modifications
+* Ouvre un éditeur de texte (ex : Bloc-Notes de Windows) puis colle et remplaçe ce qu'il faut remplacer, oublie pas d'enregistre
+  tes modifications
   
 * Fait une capture d'écran de ta deck liste à partir de TCGO
 
