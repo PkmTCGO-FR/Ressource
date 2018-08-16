@@ -2,13 +2,13 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 const fs = require("fs");
 const PathFoldersObject = "./Objets/Membres";
-var Prefix='!';
+var Prefix='$$$';
 
 //bot.login(process.env.TOKEN);
 bot.login('NDc5NzQ2NDI3MzQ2NjE2MzIw.DldvGA.aMThk6YBFQ8kV_pglYqC6QZVT4M');
 
 bot.on('ready',function(){
-    bot.user.setGame("Aide : !gh");
+    bot.user.setGame("Aide : "Prefix"gh");
 })
 
 
