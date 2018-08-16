@@ -8,7 +8,7 @@ var Prefix='$$$';
 bot.login('NDc5NzQ2NDI3MzQ2NjE2MzIw.DldzbQ.yYJzB6bCYwPqXjiCGd55UJFGt68');
 
 bot.on('ready',function(){
-    bot.user.setGame("Aide : "Prefix"gh");
+    bot.user.setGame("Aide : "+Prefix+"gh");
 })
 
 
