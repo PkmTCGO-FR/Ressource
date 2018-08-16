@@ -1,12 +1,12 @@
 {
   "name": "discordbot",
-  "version": "1.0.0",
-  "description": "PkmtcgoFR",
+  "version": "2.0",
+  "description": "bot pour la communauté de PkmTCGO-FR",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sayen-Raigin",
+  "author": "PkmTCGO-FR",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.3.2"
