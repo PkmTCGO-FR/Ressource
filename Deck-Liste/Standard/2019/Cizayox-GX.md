@@ -1,7 +1,7 @@
 # Cizayox-GX
 
 
-### Description : Le Registeel pourrait etre remplace par Solgaleo Prisme !
+### Description : Le Registeel pourrait être remplacé par Solgaleo Prisme !
 
 
 ##Pokémon - 15
