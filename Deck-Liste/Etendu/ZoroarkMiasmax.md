@@ -1,6 +1,6 @@
 # ZoroarkMiasmax
 
-### Description : Il possible de remplacer 1 énergie psy par un miasmax anti talent.
+### Description : Il est possible de remplacer 1 énergie psy par un miasmax anti talent.
 
 ##Pokémon - 20
 
