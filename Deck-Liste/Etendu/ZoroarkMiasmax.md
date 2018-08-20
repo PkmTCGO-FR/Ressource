@@ -48,5 +48,6 @@ Nombre de cartes - 60
 
 ****** Liste générée par le JCC Pokémon Online [www.pokemon.fr/JCCO] ******
 
+<br>
 
 ![alt text](img/ZoroarkMiasmax.png)
