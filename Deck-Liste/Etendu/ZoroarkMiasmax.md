@@ -2,6 +2,10 @@
 
 ### Description : Il est possible de remplacer 1 énergie psy par un miasmax anti talent.
 
+<br>
+
+****** Liste de deck du JCC Pokémon ******
+
 ##Pokémon - 20
 
 * 2 Shaymin-EX ROS 106
@@ -39,6 +43,10 @@
 
 * 4 Double Énergie Incolore FCO 114
 * 3 Énergie Psy  5
+
+Nombre de cartes - 60
+
+****** Liste générée par le JCC Pokémon Online [www.pokemon.fr/JCCO] ******
 
 
 ![alt text](img/ZoroarkMiasmax.png)

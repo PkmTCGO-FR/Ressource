@@ -1,5 +1,7 @@
 
-# -------------------- Modèle Optimisé (ce que les joueurs devrons tendre) --------------------
+# -------------------- Modèle Optimisé --------------------
+
+## (ce que les joueurs devrons tendre)
 
 <br>
 
