@@ -1,5 +1,7 @@
 
------------------------ Modèle Optimisé (ce que les joueurs devrons tendre) -----------------------
+# -------------------- Modèle Optimisé (ce que les joueurs devrons tendre) --------------------
+
+<br>
 
 * 2 Civière GRI 130
 * 1 Senior et Junior PRC 141
@@ -20,8 +22,11 @@
 * 1 Lysandre AOR 78
 * 2 Pierrallégée BKT 137
 
+<br><br>
 
------------------------ Modèle non Optimisé (pour débutant) -----------------------
+# -------------------- Modèle non Optimisé (pour débutant) --------------------
+
+<br>
 
 * 2 Vélo Cross PRC 122
 * 1 Senior et Junior PRC 141
