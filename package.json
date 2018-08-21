@@ -1,8 +1,8 @@
 {
-  "name": "PkmTCGO-FR",
+  "name": "PkmTCGO-Bot",
   "version": "2.0",
   "description": "bot pour la communauté de PkmTCGO-FR",
-  "main": "Bot/index.js",
+  "main": "PkmTCGO-Bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
