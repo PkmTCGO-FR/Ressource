@@ -103,7 +103,7 @@ bot.on('message', message => {
     if(splitMessage[0] === Prefix+"liste"){
         
         if(splitMessage.length === 3){
-            
+            /*
             var Annees=fs.readdirSync(PathDeckListe+"/Standard/", (err, files) => {files.length}),
                 Format=fs.readdirSync(PathDeckListe+'/', (err, files) => {files.length}),
                 chemin;
