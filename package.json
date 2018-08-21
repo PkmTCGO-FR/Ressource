@@ -6,15 +6,13 @@
   "engines": {
     "node": "8.11.4"
   },
-  "engines": {
-    "glob": "7.1.2"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "PkmTCGO-FR",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "^11.3.2",
+    "glob": "7.1.2"
   }
 }
