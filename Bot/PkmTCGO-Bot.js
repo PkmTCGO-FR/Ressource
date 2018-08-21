@@ -104,9 +104,9 @@ bot.on('message', message => {
         
         if(splitMessage.length === 3){
             
-            var Annees=fs.readdirSync(PathDeckListe+"/Standard/", (err, files) => {files.length}),
+            /*var Annees=fs.readdirSync(PathDeckListe+"/Standard/", (err, files) => {files.length}),
                 Format=fs.readdirSync(PathDeckListe+'/', (err, files) => {files.length}),
-                chemin;
+                chemin;*/
             message.channel.sendMessage('test')
             /*
             splitMessage[2]='*'+splitMessage[2]+'*';
@@ -132,7 +132,7 @@ bot.on('message', message => {
                     +"Les formats existants dand le Github"+'\n'
                     +Format
                 );
-            }
-        }*/
+            }*/
+        }
     } 
 })
