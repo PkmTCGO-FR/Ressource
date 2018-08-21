@@ -3,6 +3,9 @@
   "version": "2.0",
   "description": "bot pour la communauté de PkmTCGO-FR",
   "main": "PkmTCGO-Bot.js",
+  "engines": {
+    "node": "8.9.4"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
