@@ -1,8 +1,8 @@
 {
-  "name": "discordbot",
+  "name": "PkmTCGO-FR",
   "version": "2.0",
   "description": "bot pour la communauté de PkmTCGO-FR",
-  "main": "Bot\index.js",
+  "main": "Bot/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
