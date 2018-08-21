@@ -115,7 +115,7 @@ bot.on('message', message => {
                 chemin.forEach(function(elem) {
                     message.channel.sendMessage("https://github.com/PkmTCGO-FR/Ressource/blob/master/"+elem.replace('../',''))
                 });
-                console.log(chemin)
+                
             }else if(Format.includes(splitMessage[1])){
                 chemin=glob.sync(PathDeckListe+'/'+splitMessage[1]+"/" + splitMessage[2] + ".md")
                 
