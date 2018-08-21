@@ -3,9 +3,6 @@
   "version": "2.0",
   "description": "bot pour la communauté de PkmTCGO-FR",
   "main": "PkmTCGO-Bot.js",
-  "engines": {
-    "node": "8.11.4"
-  },
   "author": "PkmTCGO-FR",
   "license": "ISC",
   "dependencies": {
