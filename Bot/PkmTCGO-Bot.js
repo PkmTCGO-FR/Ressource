@@ -3,6 +3,7 @@ const fs = require("fs");
 const glob = require ("glob")
 const PathFoldersObject = "./Objet";
 const Prefix='!';
+const PathDeckListe= "../Deck-Liste";
 const bot = new Discord.Client();
 
 bot.login(process.env.PremierPointTcgNon);
@@ -102,20 +103,27 @@ bot.on('message', message => {
         
         if(splitMessage.length === 3){
             
-            var Annees=fs.readdirSync("../Deck-Liste/Standard/", (err, files) => {files.length}),
-                Format=fs.readdirSync("../Deck-Liste/", (err, files) => {files.length}),
+            var Annees=fs.readdirSync(PathDeckListe+"/Standard/", (err, files) => {files.length}),
+                Format=fs.readdirSync(PathDeckListe+'/', (err, files) => {files.length}),
                 chemin;
             
             splitMessage[2]='*'+splitMessage[2]+'*';
             
             if(Annees.includes(splitMessage[1])){
-                chemin=glob.sync("Deck-liste/Standard/"+splitMessage[1]+"/" + splitMessage[2] + ".md")
-                message.send("https://github.com/PkmTCGO-FR/Ressource/blob/master/"+chemin)
+                chemin=glob.sync(PathDeckListe+"/Standard/"+splitMessage[1]+"/" + splitMessage[2] + ".md")
+                
+                chemin.forEach(function(elem) {
+                    message.channel.sendMessage("https://github.com/PkmTCGO-FR/Ressource/blob/master/"+elem.replace('../',''))
+                });
+                console.log(chemin)
             }else if(Format.includes(splitMessage[1])){
-                chemin=glob.sync("Deck-liste/"+splitMessage[1]+"/" + splitMessage[2] + ".md")
-                message.send("https://github.com/PkmTCGO-FR/Ressource/blob/master/"+chemin)
+                chemin=glob.sync(PathDeckListe+'/'+splitMessage[1]+"/" + splitMessage[2] + ".md")
+                
+                chemin.forEach(function(elem) {
+                    message.channel.sendMessage("https://github.com/PkmTCGO-FR/Ressource/blob/master/"+elem.replace('../',''))
+                });
             }else{
-                message.send(
+                message.channel.sendMessage(
                     "Format ou deck liste introuvable !"+'\n'+'\n'
                     +"Les années existants pour le standard:"+'\n'
                     +Annees+'\n'+'\n'
