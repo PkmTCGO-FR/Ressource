@@ -12,8 +12,7 @@
 * 3 Professeur Platane PHF 101
 * 2 Courrier du Dresseur ROS 92
 * 2 Carolina BCR 134
-* 2 Nettoyage de Terrain GRI 125
-* 2 Niveau Ball AOR 76
+* 4 Niveau Ball AOR 76
 * 4 Hyper Ball FLF 99
 * 3 N NVI 92
 * 2 Nikolaï PLS 118
