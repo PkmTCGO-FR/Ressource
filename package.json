@@ -4,10 +4,7 @@
   "description": "bot pour la communauté de PkmTCGO-FR",
   "main": "PkmTCGO-Bot.js",
   "engines": {
-    "glob": "7.1.2"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "node": "8.11.4"
   },
   "author": "PkmTCGO-FR",
   "license": "ISC",
