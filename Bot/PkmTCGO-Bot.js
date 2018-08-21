@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const fs = require("fs");
-const glob = require ("./node_modules/glob")
+const glob = require ("glob")
 const PathFoldersObject = "./Objet";
 const Prefix='!';
 const PathDeckListe= "../Deck-Liste";
