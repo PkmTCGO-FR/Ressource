@@ -93,6 +93,7 @@ bot.on('message', message => {
 })
 
 
+/*
 // Recherche une deck liste
 
 bot.on('message', message => {
@@ -133,4 +134,4 @@ bot.on('message', message => {
             }
         }
     } 
-})
+})*/
