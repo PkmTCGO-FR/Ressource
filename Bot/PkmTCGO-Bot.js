@@ -93,7 +93,7 @@ bot.on('message', message => {
 })
 
 
-/*
+
 // Recherche une deck liste
 
 bot.on('message', message => {
@@ -107,7 +107,8 @@ bot.on('message', message => {
             var Annees=fs.readdirSync(PathDeckListe+"/Standard/", (err, files) => {files.length}),
                 Format=fs.readdirSync(PathDeckListe+'/', (err, files) => {files.length}),
                 chemin;
-            
+            message.channel.sendMessage('test')
+            /*
             splitMessage[2]='*'+splitMessage[2]+'*';
             
             if(Annees.includes(splitMessage[1])){
@@ -132,6 +133,6 @@ bot.on('message', message => {
                     +Format
                 );
             }
-        }
+        }*/
     } 
-})*/
+})
