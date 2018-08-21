@@ -11,11 +11,11 @@ bot.on('ready',function(){
     bot.user.setGame("Aide : "+Prefix+"gh");
 })
 
-var splitMessage = message.content.split(" ");
+
 
 //--------------- Help ---------------------------
 bot.on('message', message => {
-    
+    var splitMessage = message.content.split(" ");
     if( (splitMessage[0] === Prefix+"gh") ){
         if(splitMessage.length === 1){
             message.author.sendMessage(
@@ -70,6 +70,7 @@ bot.on('message', message => {
 //-------------- obtient le pseudo tcgo ----------------
 bot.on('message', message => {
 	
+    var splitMessage = message.content.split(" ");
     
     if( (splitMessage[0] === "Idtcg") || (splitMessage[0] === "idtcg") ){
         
@@ -94,6 +95,8 @@ bot.on('message', message => {
 // Recherche une deck liste
 
 bot.on('message', message => {
+    
+    var splitMessage = message.content.split(" ");
     
     if(splitMessage[0] === Prefix+"liste"){
         
