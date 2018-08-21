@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 const fs = require("fs");
-const PathFoldersObject = "./t";
+const PathFoldersObject = "./Objet";
 var Prefix='!';
 
 bot.login(process.env.PremierPointTcgNon);

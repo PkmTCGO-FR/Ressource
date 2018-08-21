@@ -1,1 +1,1 @@
-worker: node Bot-Ressource/PkmTCGO-Bot
+worker: node Bot/PkmTCGO-Bot
