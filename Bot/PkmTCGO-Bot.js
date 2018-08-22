@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const fs = require("fs");
-//const glob = require ("glob")
+const glob = require ("glob")
 const PathFoldersObject = "./Objet";
 const Prefix='!';
 const PathDeckListe= "Deck-Liste";
@@ -107,8 +107,7 @@ bot.on('message', message => {
             var Annees=fs.readdirSync(PathDeckListe+"/Standard/", (err, files) => {files.length}),
                 Format=fs.readdirSync(PathDeckListe+'/', (err, files) => {files.length}),
                 chemin;
-            message.channel.sendMessage(Annees)
-            //console.log(fs.constants)
+            //message.channel.sendMessage(Annees)
             
             splitMessage[2]='*'+splitMessage[2]+'*';
             
