@@ -103,14 +103,14 @@ bot.on('message', message => {
     if(splitMessage[0] === Prefix+"liste"){
         
         if(splitMessage.length === 3){
-            /*
+            
             var Annees=fs.readdirSync(PathDeckListe+"/Standard/", (err, files) => {files.length}),
                 Format=fs.readdirSync(PathDeckListe+'/', (err, files) => {files.length}),
                 chemin;
             message.channel.sendMessage('r')
-            /*
-            splitMessage[2]='*'+splitMessage[2]+'*';
             
+            splitMessage[2]='*'+splitMessage[2]+'*';
+            /*
             if(Annees.includes(splitMessage[1])){
                 chemin=glob.sync(PathDeckListe+"/Standard/"+splitMessage[1]+"/" + splitMessage[2] + ".md")
                 
