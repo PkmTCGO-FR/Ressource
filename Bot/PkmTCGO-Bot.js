@@ -111,7 +111,7 @@ bot.on('message', message => {
             //console.log(fs.constants)
             
             splitMessage[2]='*'+splitMessage[2]+'*';
-            /*
+            
             if(Annees.includes(splitMessage[1])){
                 chemin=glob.sync(PathDeckListe+"/Standard/"+splitMessage[1]+"/" + splitMessage[2] + ".md")
                 
@@ -133,7 +133,7 @@ bot.on('message', message => {
                     +"Les formats existants dand le Github"+'\n'
                     +Format
                 );
-            }*/
+            }
         }
     } 
 })
