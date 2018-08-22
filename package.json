@@ -5,6 +5,9 @@
   "main": "PkmTCGO-Bot.js",
   "author": "PkmTCGO-FR",
   "license": "ISC",
+  "engines": {
+    "fs.realpath": "1.0.0"
+  },
   "dependencies": {
     "discord.js": "^11.3.2"
   }
