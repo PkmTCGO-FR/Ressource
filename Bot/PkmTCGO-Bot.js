@@ -3,7 +3,7 @@ const fs = require("fs");
 //const glob = require ("glob")
 const PathFoldersObject = "./Objet";
 const Prefix='!';
-const PathDeckListe= "../Deck-Liste";
+const PathDeckListe= "Deck-Liste";
 const bot = new Discord.Client();
 
 bot.login(process.env.PremierPointTcgNon);
@@ -104,10 +104,10 @@ bot.on('message', message => {
         
         if(splitMessage.length === 3){
             
-            //var Annees=fs.readdirSync(PathDeckListe+"/Standard/", (err, files) => {files.length});
-                //Format=fs.readdirSync(PathDeckListe+'/', (err, files) => {files.length}),
-                //chemin;
-            message.channel.sendMessage(fs.readFileSync("Bot/test.txt", "UTF-8"))
+            var Annees=fs.readdirSync(PathDeckListe+"/Standard/", (err, files) => {files.length});
+                Format=fs.readdirSync(PathDeckListe+'/', (err, files) => {files.length}),
+                chemin;
+            message.channel.sendMessage(Annees)
             //console.log(fs.constants)
             
             splitMessage[2]='*'+splitMessage[2]+'*';
