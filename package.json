@@ -6,7 +6,7 @@
   "author": "PkmTCGO-FR",
   "license": "ISC",
   "engines": {
-    "fs.realpath": "1.0.0"
+    "node": "9.10.1"
   },
   "dependencies": {
     "discord.js": "^11.3.2"
