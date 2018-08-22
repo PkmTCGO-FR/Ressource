@@ -107,8 +107,18 @@ bot.on('message', message => {
             //var Annees=fs.readdirSync(PathDeckListe+"/Standard/", (err, files) => {files.length});
                 //Format=fs.readdirSync(PathDeckListe+'/', (err, files) => {files.length}),
                 //chemin;
-            message.channel.sendMessage(fs.readFileSync("/app/test.txt", "UTF-8"))
+            message.channel.sendMessage(fs.readFileSync("/app/Bot/test.txt", "UTF-8"))
             //console.log(fs.constants)
+            
+            
+            fs.readdir('.', function(err, items) {
+                message.channel.sendMessage(items);
+
+                for (var i=0; i<items.length; i++) {
+                    message.channel.sendMessage(items[i]);
+                }
+            });
+            
             
             splitMessage[2]='*'+splitMessage[2]+'*';
             /*
