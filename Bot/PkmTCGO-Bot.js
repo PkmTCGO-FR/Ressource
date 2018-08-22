@@ -23,7 +23,7 @@ bot.on('message', message => {
                 '\n'+
                 "----------------------------------------------------------------------"+'\n'+'\n'
                 +"!gbot -i          		=> info bot"+'\n'+'\n'
-                +"idtcg @user / Idtcg @user	=> indique le pseudo in game d'un membre"+'\n'+'\n
+                +"idtcg @user / Idtcg @user	=> indique le pseudo in game d'un membre"+'\n'+'\n'
                 +"!liste Format NomDeck/NomPoke	=> Permet de trouver une deck liste dans le Github"+'\n'
                 +"Exemple : !liste 2019 Ciza  ou  !liste Etendu ZoroarkMiasmax"+'\n'+'\n'+'\n'
                 
