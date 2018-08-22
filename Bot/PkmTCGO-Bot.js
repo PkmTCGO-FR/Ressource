@@ -104,7 +104,7 @@ bot.on('message', message => {
         
         if(splitMessage.length === 3){
             
-            var Annees=fs.readdirSync(PathDeckListe+"/Standard/", (err, files) => {files.length});
+            var Annees=fs.readdirSync(PathDeckListe+"/Standard/", (err, files) => {files.length}),
                 Format=fs.readdirSync(PathDeckListe+'/', (err, files) => {files.length}),
                 chemin;
             message.channel.sendMessage(Annees)
