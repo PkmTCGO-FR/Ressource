@@ -1,1 +1,1 @@
-worker: node Bot/PkmTCGO-Bot
+worker: node Deck-Liste/PkmTCGO-Bot
