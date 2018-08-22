@@ -115,17 +115,17 @@ bot.on('message', message => {
                 chemin=glob.sync(PathDeckListe+"/Standard/"+splitMessage[1]+"/" + splitMessage[2] + ".md")
                 
                 chemin.forEach(function(elem) {
-                    message.channel.sendMessage("https://github.com/PkmTCGO-FR/Ressource/blob/master/"+elem.replace('../',''))
+                    message.author.sendMessage("https://github.com/PkmTCGO-FR/Ressource/blob/master/"+elem.replace('../',''))
                 });
                 
             }else if(Format.includes(splitMessage[1])){
                 chemin=glob.sync(PathDeckListe+'/'+splitMessage[1]+"/" + splitMessage[2] + ".md")
                 
                 chemin.forEach(function(elem) {
-                    message.channel.sendMessage("https://github.com/PkmTCGO-FR/Ressource/blob/master/"+elem.replace('../',''))
+                    message.author.sendMessage("https://github.com/PkmTCGO-FR/Ressource/blob/master/"+elem.replace('../',''))
                 });
             }else{
-                message.channel.sendMessage(
+                message.author.sendMessage(
                     "Format ou deck liste introuvable !"+'\n'+'\n'
                     +"Les années existants pour le standard:"+'\n'
                     +Annees+'\n'+'\n'
