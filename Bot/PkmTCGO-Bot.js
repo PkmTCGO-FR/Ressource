@@ -102,6 +102,24 @@ bot.on('message', message => {
     
     if(splitMessage[0] === Prefix+"liste"){
         
+        //Partie Conteneur de deck liste (Format)
+        if(splitMessage.length === 2){
+            var Annees=fs.readdirSync(PathDeckListe+"/Standard/", (err, files) => {files.length}),
+                Format=fs.readdirSync(PathDeckListe+'/', (err, files) => {files.length}),
+                chemin;
+            
+            if(Annees.includes(splitMessage[1])){
+                message.channel.sendMessage("https://github.com/PkmTCGO-FR/Ressource/tree/master/Deck-Liste/Standard/"+splitMessage[1])
+            }else if(Format.includes(splitMessage[1])){
+                message.channel.sendMessage("https://github.com/PkmTCGO-FR/Ressource/tree/master/Deck-Liste/"+splitMessage[1])
+            }else{
+                message.channel.sendMessage(
+                    "Format introuvable !"
+                );
+            }
+        }
+        
+        //Partie deck liste
         if(splitMessage.length === 3){
             
             var Annees=fs.readdirSync(PathDeckListe+"/Standard/", (err, files) => {files.length}),
