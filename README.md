@@ -14,4 +14,4 @@ Si tu souhaites partager ta deck liste et que tu es stratège, il te faut suivre
 
 * Fait une capture d'écran de ta deck liste à partir de TCGO.
 
-* Envoie l'image et la deck liste ici on indiquant le nom du deck. 
+* Envoie l'image et la deck liste, dans la room deck-liste, en indiquant le nom du deck. 
