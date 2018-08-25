@@ -73,7 +73,7 @@ bot.on('message', message => {
 	
     var splitMessage = message.content.split(" ");
     
-    if( (splitMessage[0] === "Idtcg") || (splitMessage[0] === "idtcg") ){
+    if( (splitMessage[0] === Prefix+"Idtcg") || (splitMessage[0] === Prefix+"idtcg") ){
         
         if(splitMessage.length === 2){
             var idUser,
