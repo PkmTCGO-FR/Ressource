@@ -26,10 +26,8 @@ bot.on('message', message => {
                 +"!gbot -i          		=> info bot"+'\n'
                 +"-----------------------------------------------------"+'\n'+'\n'
                 
-                
                 +"!idtcg @user / !Idtcg @user	=> indique le pseudo in game d'un membre"+'\n'
-                +"-----------------------------------------------------"+'\n'+'\n'+'\n'
-                
+                +"-----------------------------------------------------"+'\n'+'\n'
                 
                 +"!liste Format NomDeck/NomPoke	=> Permet de trouver une deck liste dans le Github PkmTCGO-fr"+'\n'+'\n'
                 
@@ -39,7 +37,7 @@ bot.on('message', message => {
                 
                 +"!tournoi -s       		=> lancer un Tournoi"+'\n'
                 +"!tournoi -r       		=> s'inscrire à un tournoi (lancé par la commande !tournoi -s)"+'\n'
-                +"!tournoi -e       		=> Met fin au tournoi"+'\n'+'\n'
+                +"!tournoi -e       		=> Met fin au tournoi"+'\n'
                 
                 +"----------------------------------------------------------------------"
             )
