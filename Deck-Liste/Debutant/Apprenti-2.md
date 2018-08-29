@@ -1,11 +1,6 @@
 # Carchacrok-Raichu [Étendu]
 
-## Synergie :
-Le carchacrock a besoin de soutien pour faire du 200 avec Cynthia
-Lucario est là pour récupérer Cynthia qui fait profiter de l'attaque de carchacrock et permet en même temps de piocher 6 cartes.
-Raichu est un bon soutien d'attaque, il peut faire 100 pour 2 énergie incolores qui profite également à carchacrock.
-
-Si il vous manque un super bonbon, n'hésiter pas à en demander !
+## Synergie : Le carchacrock a besoin de soutien pour faire du 200 avec Cynthia. Lucario est là pour récupérer Cynthia qui fait profiter de l'attaque de carchacrock et permet en même temps de piocher 6 cartes. Raichu est un bon soutien d'attaque, il peut faire 100 pour 2 énergie incolores qui profite également à carchacrock. Si il vous manque un super bonbon, n'hésiter pas à en demander !
 
 <br>
 
@@ -52,4 +47,4 @@ Nombre de cartes - 60
 
 <br>
 
-![alt text](img/CarchacrokRaichu.png)
+![alt text](img/Apprenti-2.png)

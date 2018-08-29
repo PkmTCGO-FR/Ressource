@@ -1,11 +1,6 @@
-# Amphinobi-écréhmeux [Étendu]
+# Amphinobi - Écrémeuh [Étendu]
 
-## Synergie :
-Le but est de placer rapidement Amphinobi et d'avoir écréhmeux en actif afin de bénéficier de son attaque en 1 énergie qui fait 80 si on a un Pokemon de niveau 2 (Amphinobi) dans le banc.
-
-Le talent d'Amphinobi permet de défausser une énergie de sa main pour faire 30 dégât à un des Pokemon adverse. Ce qui n'est pas négligeable puisque avec un bandeau muscle et le talent d'Amphinobi, votre écréhmeux va taper très fort jusqu'à 130 dégât !
-
-D'autre Pokemon aide à la jouabilité, tel que dodrio (pour retirer 2 coût de retrait).
+## Synergie : Le but est de placer rapidement Amphinobi et d'avoir Écrémeuh en actif afin de bénéficier de son attaque en 1 énergie qui fait 80 si on a un Pokemon de niveau 2 (Amphinobi) dans le banc. Le talent d'Amphinobi permet de défausser une énergie de sa main pour faire 30 dégât à un des Pokemon adverse. Ce qui n'est pas négligeable puisque avec un bandeau muscle et le talent d'Amphinobi, votre écréhmeux va taper très fort jusqu'à 130 dégât ! D'autre Pokemon aide à la jouabilité, tel que dodrio (pour retirer 2 coût de retrait).
 
 <br>
 
@@ -53,4 +48,4 @@ Nombre de cartes - 60
 
 <br>
 
-![alt text](img/Amphinobiécréhmeux.png)
+![alt text](img/Apprenti-1.png)
