@@ -42,4 +42,4 @@ Nombre de cartes - 60
 
 <br>
 
-![alt text](ZoroarkMagnézone.png)
+![alt text](img/ZoroarkMagnézone.png)
