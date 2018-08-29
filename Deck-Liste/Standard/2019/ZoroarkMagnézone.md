@@ -1,6 +1,6 @@
 # Zoroark - Magnézone (Après Rotation)
 
-## Description : Pour le moment le deck tourne plutôt bien, à venir avec les méta future peut être ajouter une carte pour contrer certai arcetype.
+## Description : Pour le moment le deck tourne plutôt bien. Peut être pour la nouvel méta, ajouter une carte ou des cartes pour contrer certains archétype.
 
 <br>
 
@@ -42,4 +42,4 @@ Nombre de cartes - 60
 
 <br>
 
-![alt text](ZoroarkMagnezone.png)
+![alt text](ZoroarkMagnézone.png)
