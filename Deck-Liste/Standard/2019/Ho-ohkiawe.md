@@ -39,4 +39,4 @@ Nombre de cartes - 60
 
 
 
-![alt text](img/Ho-ohkiawe.png)
+![alt text](img/Ho-ohKiawe.png)
