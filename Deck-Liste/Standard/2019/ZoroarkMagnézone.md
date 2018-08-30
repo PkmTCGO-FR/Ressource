@@ -1,6 +1,6 @@
 # Zoroark - Magnézone (Après Rotation)
 
-## Description : Pour le moment le deck tourne plutôt bien. Peut être pour la nouvel méta, ajouter une carte ou des cartes pour contrer certains archétype.
+## Description : Pour le moment le deck tourne plutôt bien. Peut être pour la nouvel méta, ajouter une ou des carte(s) aafin de contrer certains archétypes.
 
 <br>
 
