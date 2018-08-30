@@ -1,4 +1,4 @@
-# ZoroarkMiasmax
+# Zoroark-GX - Miasmax
 
 ### Description : Il est possible de remplacer le courrier par un miasmax anti talent.
 

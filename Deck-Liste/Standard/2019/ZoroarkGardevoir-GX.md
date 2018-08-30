@@ -1,4 +1,4 @@
-# Zoroark - Gardevoir GX
+# Zoroark-GX - Gardevoir GX
 
 
 ### Description : Aucune

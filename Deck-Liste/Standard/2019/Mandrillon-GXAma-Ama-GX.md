@@ -50,4 +50,4 @@ Nombre de cartes - 60
 
 <br>
 
-![alt text](img/MandrillonAma-Ama.png)
+![alt text](img/Mandrillon-GXAma-Ama-GX.png)

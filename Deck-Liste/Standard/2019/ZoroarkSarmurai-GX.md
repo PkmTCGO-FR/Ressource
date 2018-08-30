@@ -1,4 +1,4 @@
-# ZoroarkGolisopod
+# Zoroark-GX - Sarmurai-GX
 
 ##Pokémon - 18
 
@@ -33,4 +33,4 @@
 * 3 Énergie Plante  1
 * 1 Énergie de Distorsion CIN 123
 
-![alt text](img/ZoroarkGolisopod.png)
+![alt text](img/ZoroarkSarmurai-GX.png)

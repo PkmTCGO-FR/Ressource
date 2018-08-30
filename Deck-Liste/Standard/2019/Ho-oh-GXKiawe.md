@@ -1,4 +1,4 @@
-# Ho-oh/Kiawe
+# Ho-oh-GX - Kiawe
 
 ### Description : Première tentative de deck en SUM-on. Pour l'instant, le deck marche bien contre les decks GX (notamment Zoroark), se débrouille plus ou moins contre le reste (si Shrine of Punishments est beaucoup joué il faudra caser des stades ou des Nettoyage de terrain), et autoloss contre Hoopa.
 
@@ -39,4 +39,4 @@ Nombre de cartes - 60
 
 
 
-![alt text](img/Ho-ohKiawe.png)
+![alt text](img/Ho-oh-GXKiawe.png)

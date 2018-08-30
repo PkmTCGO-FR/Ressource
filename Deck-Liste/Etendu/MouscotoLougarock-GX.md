@@ -1,4 +1,4 @@
-# BuzzRock
+# Mouscoto-GX - Lougarock-GX
 
 ### Description : Mouscoto - Lougarock. Classique Etendu.
 
@@ -47,4 +47,4 @@ Nombre de cartes - 60
 
 <br>
 
-![alt text](img/MouscotoLougarock.png)
+![alt text](img/MouscotoLougarock-GX.png)
