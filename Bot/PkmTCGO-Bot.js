@@ -123,7 +123,9 @@ bot.on('message', message => {
                 message.channel.sendMessage("https://github.com/PkmTCGO-FR/Ressource/tree/master/Deck-Liste/"+splitMessage[1])
             }else{
                 message.channel.sendMessage(
-                    "Format introuvable !"
+                    "Format introuvable !"+'\n'+'\n'
+                    +"Liste des formats existants dans le Github :"+'\n'
+                    +Format+'\n'+'\n'
                 );
             }
         }
@@ -178,7 +180,7 @@ bot.on('message', message => {
                     "Format introuvable !"+'\n'+'\n'
                     +"Voici la liste des années existantes pour le standard:"+'\n'
                     +Annees+'\n'+'\n'
-                    +"Les formats existants dand le Github"+'\n'
+                    +"Liste des formats existants dans le Github :"+'\n'
                     +Format+'\n'+'\n'
                     +"Exemple : "+'\n'
                     +Prefix+"liste 2019 Sarmurai"+'\n'
