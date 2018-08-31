@@ -49,8 +49,8 @@ bot.on('message', message => {
 				message.channel.sendMessage(
 					'\n'
 					+"Nom du bot : Tcgo Bot"+'\n'
-					+"Version : 1.0"+'\n'
-					+"Première Update : le 05/08/2018"+'\n'
+					+"Version : 1.1"+'\n'
+					+"Liste des Updates : 1 => 05/08/2018 ; 2 => 31/08/2018"+'\n'
 					+"Discord origine : "+message.guild.name
 				)
 			}
