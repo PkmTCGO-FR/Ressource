@@ -134,30 +134,56 @@ bot.on('message', message => {
             var Annees=fs.readdirSync(PathDeckListe+"/Standard/", (err, files) => {files.length}),
                 Format=fs.readdirSync(PathDeckListe+'/', (err, files) => {files.length}),
                 chemin;
-            //message.channel.sendMessage(Annees)
             
             splitMessage[2]='*'+splitMessage[2]+'*';
             
             if(Annees.includes(splitMessage[1])){
+                
                 chemin=glob.sync(PathDeckListe+"/Standard/"+splitMessage[1]+"/" + splitMessage[2] + ".md")
                 
-                chemin.forEach(function(elem) {
-                    message.channel.sendMessage("https://github.com/PkmTCGO-FR/Ressource/blob/master/"+elem.replace('../',''))
-                });
+                if((typeof chemin != "undefined" && chemin != null && chemin.length != null && chemin.length > 0)){
+                   chemin.forEach(function(elem) {
+                        message.channel.sendMessage("https://github.com/PkmTCGO-FR/Ressource/blob/master/"+elem.replace('../',''))
+                    });
+                }else{
+                    message.channel.sendMessage(
+                        "deck liste introuvable !"+'\n'+'\n'
+                        +"Exemple : "+'\n'
+                        +Prefix+"liste 2019 Sarmurai"+'\n'
+                        +Prefix+"liste 2019 Zoro"+'\n'
+                        +Prefix+"liste 2019 Mo"+'\n'
+                    );
+                }
+                
+                console.log((typeof chemin != "undefined" && chemin != null && chemin.length != null && chemin.length > 0))
                 
             }else if(Format.includes(splitMessage[1])){
                 chemin=glob.sync(PathDeckListe+'/'+splitMessage[1]+"/" + splitMessage[2] + ".md")
                 
-                chemin.forEach(function(elem) {
-                    message.channel.sendMessage("https://github.com/PkmTCGO-FR/Ressource/blob/master/"+elem.replace('../',''))
-                });
+                if((typeof chemin != "undefined" && chemin != null && chemin.length != null && chemin.length > 0)){
+                    chemin.forEach(function(elem) {
+                        message.channel.sendMessage("https://github.com/PkmTCGO-FR/Ressource/blob/master/"+elem.replace('../',''))
+                    });
+                }else{
+                    message.channel.sendMessage(
+                        "deck liste introuvable !"+'\n'+'\n'
+                        +"Exemple : "+'\n'
+                        +Prefix+"liste Debutant Novi"+'\n'
+                        +Prefix+"liste Heritage Gene"+'\n'
+                        +Prefix+"liste Etendu Pyroli"+'\n'
+                    );
+                }
             }else{
                 message.channel.sendMessage(
-                    "Format ou deck liste introuvable !"+'\n'+'\n'
-                    +"Les années existants pour le standard:"+'\n'
+                    "Format introuvable !"+'\n'+'\n'
+                    +"Voici la liste des années existantes pour le standard:"+'\n'
                     +Annees+'\n'+'\n'
                     +"Les formats existants dand le Github"+'\n'
-                    +Format
+                    +Format+'\n'+'\n'
+                    +"Exemple : "+'\n'
+                    +Prefix+"liste 2019 Sarmurai"+'\n'
+                    +Prefix+"liste Debutant Apprenti"+'\n'
+                    +Prefix+"liste Etendu Pyro"+'\n'
                 );
             }
         }
