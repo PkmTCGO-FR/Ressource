@@ -454,3 +454,9 @@ exports.user72 ={
 "NmbTournoiFait":"",
 "NmbTournoiWin":"",
 }
+exports.user73 ={
+"id":process.env.id73,
+"idTcgo":"Heytiko",
+"NmbTournoiFait":"",
+"NmbTournoiWin":"",
+}
