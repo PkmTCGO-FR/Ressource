@@ -1,6 +1,7 @@
 # Feunard-GX - Archéduc-GX
 
 ## Description : deck lste plutôt simpa, à modifier si besoin !!!
+Malus : très sensible aux maillets !!!
 
 <br>
 
