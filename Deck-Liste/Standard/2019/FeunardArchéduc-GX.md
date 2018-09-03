@@ -20,13 +20,13 @@
 
 ##Cartes Dresseur - 34
 
-* 2 Margie BUS 142
+* 1 Margie BUS 142
 * 1 Registre Ami UPR 132
 * 2 Lilie SUM 147
 * 1 Civière GRI 130
 * 1 Échange PRC 163
 * 2 Chrono Ball SUM 134
-* 2 Bandeau Choix GRI 121
+* 3 Bandeau Choix GRI 121
 * 3 Copieuse CES 127
 * 4 Faiblo Ball SUM 123
 * 1 Nettoyage de Terrain GRI 125
