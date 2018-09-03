@@ -1,4 +1,4 @@
-# Motisma - Rattatac d'alola-GX
+# Motisma - Rattatac d'Alola-GX
 
 ### Description : Deck motisma potable vue que gros t'admorve d'alola n'est pas présent.
 
