@@ -1,6 +1,6 @@
 # Zoroark-GX - Magnézone (Après Rotation)
 
-## Description : Pour le moment le deck tourne plutôt bien. Il se peut que dans certain match up il ne soit pas assez rapide à sortir. Peut être pour la nouvel méta, ajouter une ou des carte(s) afin de contrer certains archétypes.
+## Description : Pour le moment le deck tourne plutôt bien. Il se peut que dans certain match up il ne soit pas assez rapide à sortir. Peut être pour la nouvel méta, ajouter une ou des carte(s) afin de contrer certains archétypes. Je pense que le solgaleo promo serai meuilleur que le prisme !!!
 
 <br>
 

@@ -1,5 +1,9 @@
 # Zoroark-GX - Sarmurai-GX
 
+## Description : Aucune.
+
+<br>
+
 ##Pokémon - 18
 
 * 1 Zorua BKT 89
@@ -32,5 +36,7 @@
 * 4 Double Énergie Incolore NXD 92
 * 3 Énergie Plante  1
 * 1 Énergie de Distorsion CIN 123
+
+<br>
 
 ![alt text](img/ZoroarkSarmurai-GX.png)
