@@ -7,7 +7,7 @@ Mandrillon GX ayant besoin d'une seule énergie, il peut être soigné avec Marg
 Le Katagami-GX peut-être remplacé par Necrozma crinière du couchant (SM107 ou SM124) qui permettra de faire des gros dégâts en fin de partie et de passer les feunard d'alola non GX et les Hoopa ténèbres. 
 En fin de partie le Necrozma-GX crinière du couchant et la GX du Ama-Ama-GX pourront être utiles. Les cercles chimériques étant présents principalement pour charger ces Pokémon de fin de partie qui ont besoin de 3/4 énergies pour taper.
 
-<br>
+<br><br>
 
 ** Liste de deck du JCC Pokémon **
 
