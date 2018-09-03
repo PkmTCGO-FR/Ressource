@@ -44,4 +44,4 @@ Nombre de cartes - 60
 
 <br>
 
-![alt text](img/MotismaRattatac d'Alola-GX.png)
+![alt text](img/MotismaRattatacd'Alola-GX.png)
