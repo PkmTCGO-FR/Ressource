@@ -2,7 +2,7 @@
 
 <br>
 
-- https://pikastore.fr/103-code-online (vous pouvez également essayer de le joindre sur discord( @Pikastore#9829 ) )
+- https://pikastore.fr/103-code-online (vous pouvez également essayer de le joindre sur discord on citant : Pikastore)
 
 <br>
 
