@@ -1,6 +1,6 @@
 # STR (Standard - Restriction)
 
-## Format pensé par la communauté, il n'est en aucun cas officiel !!!
+### Format pensé par la communauté, il n'est en aucun cas officiel !!!
 
 <br>
 
