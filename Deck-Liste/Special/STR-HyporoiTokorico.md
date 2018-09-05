@@ -6,41 +6,35 @@
 
 ****** Liste de deck du JCC Pokémon ******
 
-##Pokémon - 14
+##Pokémon - 18
 
 * 1 Gouroutan UPR 114
-* 1 Cornèbre UPR 71
-* 1 Corboss GRI 79
-* 1 Tokorico PR-SM SM31
-* 2 Tokorico PR-SM SM30
-* 3 Hypotrempe BUS 29
+* 2 Cornèbre UPR 71
+* 2 Corboss GRI 79
+* 3 Tokorico PR-SM SM31
+* 4 Hypotrempe BUS 29
 * 2 Hypocéan BUS 30
-* 3 Hyporoi BUS 31
+* 4 Hyporoi BUS 31
 
-##Cartes Dresseur - 35
+##Cartes Dresseur - 31
 
-* 1 Professeur Platane STS 114
-* 1 Ballon Explosif BKP 97
-* 2 N FCO 105
+* 2 Lilie SUM 147
+* 3 Guzma BUS 115
+* 1 Chrono Ball SUM 134
 * 1 Registre Ami UPR 132
-* 1 Civière GRI 130
-* 4 Hyper Ball DEX 102
-* 2 Super Bonbon PRC 135
-* 2 Carolina BKP 122
-* 2 Margie BUS 112
-* 1 Méga Canne NVI 95
-* 3 Faiblo Ball SUM 123
-* 4 Énigme du Temps BKP 109
+* 2 Civière GRI 130
+* 4 Hyper Ball SLG 68
+* 3 Super Bonbon PRC 135
+* 4 Copieuse CES 127
+* 2 Margie BUS 142
+* 4 Faiblo Ball SUM 123
 * 4 Cynthia UPR 119
 * 1 Nettoyage de Terrain GRI 125
-* 3 Professeur Platane PHF 101
-* 2 Guzma BUS 143
-* 1 Juliette BKT 161
 
 ##Énergie - 11
 
-* 4 Double Énergie Incolore LTR 113
 * 7 Énergie Eau  3
+* 4 Double Énergie Incolore FCO 114
 
 Nombre de cartes - 60
 
