@@ -12,7 +12,7 @@ Il est interdit de jouer plus de 2 fois la même carte qui a le même nom (effet
 
 <br><br>
 
-Même Carte :
+### Même Carte :
 
 ![alt text](../img/U150-Exemp1.png)
 
@@ -21,7 +21,7 @@ Même Carte :
 
 <br><br>
 
-Carte différente :
+### Carte différente :
 
 ![alt text](../img/U150-Exemp3.png)
 
