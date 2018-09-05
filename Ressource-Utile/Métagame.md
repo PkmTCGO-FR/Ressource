@@ -1,4 +1,6 @@
-Deck liste des métas dans TCGO : http://limitlesstcg.com/decks/
+Deck liste des métas dans TCGO
+
+http://limitlesstcg.com/decks/
 
 <br>
 
