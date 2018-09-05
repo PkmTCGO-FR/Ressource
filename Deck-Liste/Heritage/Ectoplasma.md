@@ -1,4 +1,4 @@
-# Dimoret calomnie
+# Ectoplasma Lost Zone.
 
 ### Description : Un deck VRAIMENT UNIQUE en son genre, le deck Ectoplasma prime. Consiste à placer 6 pokémon adverses dans la zone perdue (gràce à la carte stade). Une fois que c'est fait, cliquez sur la carte stade et c'est gagné
 
