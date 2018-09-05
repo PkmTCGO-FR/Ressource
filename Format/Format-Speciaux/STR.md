@@ -10,7 +10,10 @@ Il est obligatoire d'avoir un deck sous format standard !!!
 
 Donc les cartes appartenant au format étendu comme le cherche VS, le courrier du dresseur, Lysandre, etc... Son interdites.
 
-<br>
+<br><br>
 
 Liste des cartes Ban :
--Miasmax avalanche de déchet.
+
+<br>
+
+-Miasmax ayant l'attaque "Avalanche de Déchets".
