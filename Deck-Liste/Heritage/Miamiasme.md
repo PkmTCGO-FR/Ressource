@@ -45,4 +45,4 @@ Nombre de cartes - 60
 
 <br>
 
-![alt text](img/ApireinePyroli.png)
+![alt text](img/Miamiasme.png)
