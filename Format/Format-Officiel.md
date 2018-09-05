@@ -15,8 +15,6 @@ Pour faire simple c'est un format classique et compétitif du jeu !
 
 # Etendu
 
-Étendu
-
 Le format Étendu (Expended en anglais) est un format pour ceux qui aiment un peu moins le changement.
 Par conséquent, le format contient plus de cartes que le format Standard.
 Tous les anciennes extensions XY et Noir & Blanc sont également inclus.
