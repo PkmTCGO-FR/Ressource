@@ -9,12 +9,10 @@ Malus : très sensible aux maillets !!!
 
 ##Pokémon - 18
 
-* 1 Gouroutan SUM 113
 * 4 Brindibou SUM 9
 * 2 Efflèche SUM 10
 * 3 Archéduc-GX SUM 12
-* 1 Tokorico PR-SM SM30
-* 1 Tokopiyon-GX GRI 60
+* 3 Tokopiyon-GX GRI 60
 * 3 Goupix d’Alola GRI 21
 * 1 Feunard d’Alola BUS 28
 * 2 Feunard d’Alola-GX GRI 22
@@ -40,8 +38,8 @@ Malus : très sensible aux maillets !!!
 
 ##Énergie - 8
 
-* 4 Énergie Unitaire {G}{R}{W} UPR 170
 * 4 Double Énergie Incolore FCO 114
+* 4 Énergie Unitaire {G}{R}{W} UPR 170
 
 Nombre de cartes - 60
 
