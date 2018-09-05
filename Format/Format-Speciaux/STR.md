@@ -13,5 +13,4 @@ Donc les cartes appartenant au format étendu comme le cherche VS, le courrier d
 <br><br>
 
 Liste des cartes Ban :
-<br>
 -Miasmax ayant l'attaque "Avalanche de Déchets".
