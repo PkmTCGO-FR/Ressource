@@ -2,9 +2,7 @@
 
 <br>
 
-- https://pikastore.fr/103-code-online
-
-(vous pouvez également essayer de le joindre sur discord( @Pikastore#9829 ) )
+- https://pikastore.fr/103-code-online (vous pouvez également essayer de le joindre sur discord( @Pikastore#9829 ) )
 
 <br>
 
@@ -12,4 +10,4 @@
 
 <br>
 
--https://www.cardcaverntradingcards.com/
+- https://www.cardcaverntradingcards.com/
