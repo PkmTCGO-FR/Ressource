@@ -11,3 +11,7 @@
 <br>
 
 - https://www.cardcaverntradingcards.com/
+
+<br>
+
+- https://www.cardmarket.com/en/Pokemon
