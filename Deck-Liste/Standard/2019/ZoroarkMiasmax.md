@@ -1,6 +1,6 @@
 # Zoroark-GX - Miasmax
 
-## Description : Voici une decklist de Zoroark Miasmax qui a fait top 4 a un League Cup (Septembre 2018).
+## Description : Voici une decklist de Zoroark Miasmax qui a fait top 4 a une League Cup (Septembre 2018).
 
 <br>
 
