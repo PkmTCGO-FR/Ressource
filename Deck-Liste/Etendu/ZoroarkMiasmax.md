@@ -6,25 +6,28 @@
 
 ****** Liste de deck du JCC Pokémon ******
 
-##Pokémon - 20
+##Pokémon - 22
 
+* 1 Gouroutan UPR 114
 * 2 Shaymin-EX ROS 106
 * 4 Zorua SLG 52
 * 4 Zoroark-GX SLG 77
+* 1 Trousselin STS 80
 * 1 Simularbre GRI 66
 * 2 Noeunoeuf PLF 4
+* 1 Mew-EX PR-XY XY126
 * 2 Miamiasme NVI 48
 * 1 Plumeline GRI 56
 * 2 Tokopiyon-GX GRI 137
-* 1 Miasmax GRI 51
 * 1 Miasmax DRX 54
 
 ##Cartes Dresseur - 34
 
 * 1 Recherche Informatique BCR 137
-* 3 Ballon Explosif BKP 97
+* 2 Ballon Explosif BKP 97
 * 1 Margie BUS 142
 * 1 N FCO 105
+* 2 Courrier du Dresseur ROS 92
 * 2 Civière GRI 130
 * 2 Bandeau Choix GRI 121
 * 2 Réducteur de Combat Matos Team Flare PHF 92
@@ -33,16 +36,14 @@
 * 2 Nettoyage de Terrain GRI 125
 * 2 Guzma BUS 143
 * 1 Juliette BKT 161
-* 1 Courrier du Dresseur ROS 92
 * 4 Zone Aérienne ROS 89
 * 1 Pierrallégée BKT 137
 * 4 Hyper Ball FCO 113
 * 4 Cherche VS PHF 109
 
-##Énergie - 6
+##Énergie - 4
 
 * 4 Double Énergie Incolore FCO 114
-* 2 Énergie Psy  5
 
 Nombre de cartes - 60
 
