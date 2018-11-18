@@ -6,7 +6,8 @@
 
 ****** Liste de deck du JCC Pokémon ******
 
-Pokemon - 18
+##Pokemon - 18
+
 4 Zorua DEX 70
 4 Zoroark-GX SLG 53
 3 Seismitoad-EX FFI 20
@@ -16,7 +17,8 @@ Pokemon - 18
 1 Sudowoodo GRI 66
 1 Tirtouga PLB 27
 
-Trainer - 38
+##Trainer - 38
+
 2 Lusamine CIN 96
 2 Plumeria BUS 120
 1 Professor Sycamore BKP 107
@@ -43,7 +45,8 @@ Trainer - 38
 1 Parallel City BKT 145
 1 Rough Seas PRC 137
 
-Energy - 4
+##Energy - 4
+
 4 Double Colorless Energy SUM 136
 
 Nombre de cartes - 60
