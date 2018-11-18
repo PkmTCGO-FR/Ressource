@@ -8,14 +8,14 @@
 
 ##Pokemon - 18
 
-*4 Zorua DEX 70
-*4 Zoroark-GX SLG 53
-*3 Seismitoad-EX FFI 20
-*3 Tapu Lele-GX GRI 60
-*1 Exeggcute PLF 4
-*1 Oranguru UPR 114
-*1 Sudowoodo GRI 66
-*1 Tirtouga PLB 27
+* 4 Zorua DEX 70
+* 4 Zoroark-GX SLG 53
+* 3 Seismitoad-EX FFI 20
+* 3 Tapu Lele-GX GRI 60
+* 1 Exeggcute PLF 4
+* 1 Oranguru UPR 114
+* 1 Sudowoodo GRI 66
+* 1 Tirtouga PLB 27
 
 ##Trainer - 38
 
