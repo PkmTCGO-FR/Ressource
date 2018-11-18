@@ -1,50 +1,50 @@
 # Zoroark-GX - Crapustule-EX
 
-### Description :
+### Description : 1st Place Portland (Regional 2018). Auteur : Jimmy Pendarvis
 
 <br>
 
 ****** Liste de deck du JCC Pokémon ******
 
-##Pokémon - 22
+Pokemon - 18
+4 Zorua DEX 70
+4 Zoroark-GX SLG 53
+3 Seismitoad-EX FFI 20
+3 Tapu Lele-GX GRI 60
+1 Exeggcute PLF 4
+1 Oranguru UPR 114
+1 Sudowoodo GRI 66
+1 Tirtouga PLB 27
 
-* 1 Gouroutan UPR 114
-* 1 Métamorph {*} LOT 154
-* 2 Shaymin-EX ROS 106
-* 4 Zorua SLG 52
-* 4 Zoroark-GX SLG 77
-* 1 Simularbre GRI 66
-* 2 Noeunoeuf PLF 4
-* 1 Marshadow SLG 45
-* 1 Miamiasme NVI 48
-* 2 Tokopiyon-GX GRI 137
-* 1 Miasmax DRX 54
-* 2 Crapustule-EX FFI 106
+Trainer - 38
+2 Lusamine CIN 96
+2 Plumeria BUS 120
+1 Professor Sycamore BKP 107
+1 N FCO 105
+1 Colress PLS 118
+1 Brigette BKT 134
+1 Pokemon Fan Club FCO 107
+1 Guzma BUS 115
+1 Acerola BUS 112
+1 Team Skull Grunt SUM 133
+1 Team Rocket's Handiwork FCO 112
+1 Gladion CIN 95
+1 Karen PR-XY XY177
+4 VS Seeker PHF 109
+4 Ultra Ball SUM 135
+3 Enhanced Hammer GRI 124
+2 Battle Compressor PHF 92
+2 Field Blower GRI 125
+1 Rescue Stretcher GRI 130
+1 Counter Catcher CIN 91
+1 Dowsing Machine PLS 128
+2 Fighting Fury Belt BKP 99
+1 Float Stone BKT 137
+1 Parallel City BKT 145
+1 Rough Seas PRC 137
 
-##Cartes Dresseur - 32
-
-* 1 Recherche Informatique BCR 137
-* 1 Margie BUS 142
-* 1 N FCO 105
-* 2 Civière GRI 130
-* 1 Fan Club Pokémon UPR 155
-* 2 Bandeau Choix GRI 121
-* 2 Réducteur de Combat Matos Team Flare PHF 92
-* 2 Nikolaï PLS 135
-* 1 Recharge Spéciale STS 105
-* 2 Nettoyage de Terrain GRI 125
-* 1 Ceinture Furie Combative BKP 99
-* 1 Terreur BKP 98
-* 2 Guzma BUS 143
-* 4 Zone Aérienne ROS 89
-* 1 Pierrallégée BKT 137
-* 4 Hyper Ball FCO 113
-* 4 Cherche VS PHF 109
-
-##Énergie - 6
-
-* 2 Énergie Obscurité  7
-* 4 Double Énergie Incolore FCO 114
+Energy - 4
+4 Double Colorless Energy SUM 136
 
 Nombre de cartes - 60
 
