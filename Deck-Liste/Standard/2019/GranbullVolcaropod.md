@@ -1,4 +1,4 @@
-# Cizayox-GX
+# Granbull - Volcaropod
 
 
 ### Description : Trés bon deck qui a fait de bon résultat dans un tournoi (2éme)
