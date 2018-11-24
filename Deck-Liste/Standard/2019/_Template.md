@@ -1,40 +1,14 @@
-# Cizayox-GX
+# Name - Deck
 
 
-### Description : Le Registeel pourrait être remplacé par Solgaleo Prisme !
+### Description : 
 
 
-##Pokémon - 15
+****** Liste de deck du JCC Pokémon ******
 
-* 1 Slugma CES 23
-* 1 Magcargo CES 24
-* 4 Scyther CES 4
-* 1 Registeel CIN 68
-* 3 Scizor-GX CES 158
-* 4 Dhelmise GRI 59
-* 1 Tapu Lele-GX GRI 60
+Deck liste ici
 
-##Trainer Cards - 36
-
-* 1 Pal Pad FLF 92
-* 1 Switch HS 102
-* 1 Lillie SUM 147
-* 1 Rescue Stretcher GRI 130
-* 4 Metal Frying Pan FLI 112
-* 4 Ultra Ball DEX 102
-* 4 Acerola BUS 112
-* 2 Judge FLI 108
-* 4 Copycat HS 90
-* 4 Nest Ball SUM 123
-* 4 Cynthia UPR 119
-* 1 Field Blower GRI 125
-* 3 Guzma BUS 115
-* 2 Energy Switch HS 91
-
-##Energy - 9
-
-* 2 Double Colorless Energy HS 103
-* 7 Metal Energy  8
+****** Liste générée par le JCC Pokémon Online [www.pokemon.fr/JCCO] ******
 
 
-![alt text](img/Cizayox-GX.png)
+![alt text](img/NameDeck.png)
