@@ -14,7 +14,7 @@ http://www.ou7c4st.com/card-values.html
 
 Par exemple le booster Gardien Ascendant (Guardians Rising) possède la valeur 1, donc il faut se baser à partir de ce booster afin d'avoir une idée de la valeur des autres cartes.
 
-Si Zoroark-GX vaut 7.5 , alors il vaut 7 Gardien Ascendant +  0.5 (1 soleil et lune s'il vaut 0.5)
+Si Zoroark-GX vaut 7.5 , alors il vaut 7 Gardien Ascendant +  0.5 (1 Ombre ardente s'il vaut 0.5)
 
 <br>
 
