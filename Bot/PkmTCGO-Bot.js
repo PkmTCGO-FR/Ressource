@@ -72,7 +72,7 @@ bot.on('message', message => {
     
     key_word = new RegExp('www.twitch.tv');
     var PubTwitch = key_word.test(message.content);
-    
+    if(  PubTwitch  ){  message.delete()   }
 })
 
 
