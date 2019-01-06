@@ -70,11 +70,11 @@ bot.on('message', message => {
     var PubDiscord = key_word.test(message.content);
     if(  PubDiscord  ){  message.delete()   }
     
-    key_word = new RegExp('www.twitch.tv');
-    var PubTwitch = key_word.test(message.content);
-    if(  PubTwitch  ){  message.delete()   }
+    key_word = new RegExp('://www.');
+    var Lien = key_word.test(message.content);
+    if(  Lien  ){  message.delete()   }
 })
-
+//-------------------------------------------------------------------------
 
 
 //-------------- obtient le pseudo tcgo ----------------
