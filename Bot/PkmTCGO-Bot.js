@@ -70,7 +70,11 @@ bot.on('message', message => {
     var PubDiscord = key_word.test(message.content);
     if(  PubDiscord  ){  message.delete()   }
     
-    key_word = new RegExp('://www.');
+    key_word = new RegExp('https://');
+    var Lien = key_word.test(message.content);
+    if(  Lien  ){  message.delete()   }
+    
+    key_word = new RegExp('http://');
     var Lien = key_word.test(message.content);
     if(  Lien  ){  message.delete()   }
 })
