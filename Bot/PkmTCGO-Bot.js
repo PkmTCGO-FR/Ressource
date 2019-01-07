@@ -46,12 +46,15 @@ bot.on('message', message => {
     if(splitMessage[0] === Prefix+"gbot"){
         if(splitMessage[1] === "-i"){
             if(splitMessage.length === 2){
+                var DateCreationDiscord = message.guild.createdAt.toLocaleTimeString(),
+                    HeureCreationDiscord = message.guild.createdAt.toLocaleDateString();
 				message.channel.sendMessage(
 					'\n'
 					+"Nom du bot : Tcgo Bot"+'\n'
-					+"Version : 1.1"+'\n'
-					+"Liste des Updates : 1 => 05/08/2018 ; 2 => 31/08/2018"+'\n'
+					+"Version : 1.3"+'\n'
+					+"Date des Updates : 05/08/2018 ; 31/08/2018; 07/01/2019"+'\n'
 					+"Discord origine : "+message.guild.name
+                    +"Date et Heure de créaton : "+DateCreationDiscord+' | '+HeureCreationDiscord
 				)
 			}
         }
