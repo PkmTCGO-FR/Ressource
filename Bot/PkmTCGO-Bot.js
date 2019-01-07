@@ -70,13 +70,18 @@ bot.on('message', message => {
     var PubDiscord = key_word.test(message.content);
     if(  PubDiscord  ){  message.delete()   }
     
-    key_word = new RegExp('https://');
-    var Lien = key_word.test(message.content);
-    if(  Lien  ){  message.delete()   }
     
-    key_word = new RegExp('http://');
-    var Lien = key_word.test(message.content);
-    if(  Lien  ){  message.delete()   }
+    if(message.author.id !== '475734236951740436'){
+        key_word = new RegExp('https://');
+        var Lien = key_word.test(message.content);
+        if(  Lien  ){  message.delete()   }
+
+        key_word = new RegExp('http://');
+        var Lien = key_word.test(message.content);
+        if(  Lien  ){  message.delete()   }
+    }
+    
+    
 })
 //-------------------------------------------------------------------------
 
