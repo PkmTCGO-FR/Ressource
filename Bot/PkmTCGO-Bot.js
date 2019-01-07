@@ -46,8 +46,8 @@ bot.on('message', message => {
     if(splitMessage[0] === Prefix+"gbot"){
         if(splitMessage[1] === "-i"){
             if(splitMessage.length === 2){
-                var DateCreationDiscord = message.guild.createdAt.toLocaleTimeString(),
-                    HeureCreationDiscord = message.guild.createdAt.toLocaleDateString();
+                var HeureCreationDiscord = message.guild.createdAt.toLocaleTimeString(),
+                    DateCreationDiscord = message.guild.createdAt.toLocaleDateString();
 				message.channel.sendMessage(
 					'\n'
 					+"Nom du bot : Tcgo Bot"+'\n'
