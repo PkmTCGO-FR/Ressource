@@ -53,7 +53,7 @@ bot.on('message', message => {
 					+"Nom du bot : Tcgo Bot"+'\n'
 					+"Version : 1.3"+'\n'
 					+"Date des Updates : 05/08/2018 ; 31/08/2018; 07/01/2019"+'\n'
-					+"Discord origine : "+message.guild.name
+					+"Discord origine : "+message.guild.name+'\n'
                     +"Date et Heure de créaton : "+DateCreationDiscord+' | '+HeureCreationDiscord
 				)
 			}
