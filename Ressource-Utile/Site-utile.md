@@ -22,6 +22,16 @@ Si Zoroark-GX vaut 7.5 , alors il vaut 7 Gardien Ascendant +  0.5 (1 Ombre arden
 
 <br>
 
+https://www.pokemon.com/fr/jcc-pokemon/jouer-en-ligne/telecharger/
+
+Télécharger du jeu pour PC.
+
+<br>
+
+----------------------------------------------------------------------
+
+<br>
+
 https://www.pokemon.com/fr/play-pokemon/evenements-pokemon/trouver-un-evenement/
 
 Utile pour chercher une ligue près de chez vous, elles sont toutes recensées.
