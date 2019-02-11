@@ -1,7 +1,7 @@
 # Ultra-Necrozma - Sepiatroce - Jirachi
 
 
-### Description : 
+### Description : Source ( https://www.youtube.com/watch?v=Nc1GROKsKF0 )
 
 
 ****** Liste de deck du JCC Pokémon ******
