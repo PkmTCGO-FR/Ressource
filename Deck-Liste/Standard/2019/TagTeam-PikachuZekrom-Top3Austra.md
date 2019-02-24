@@ -2,6 +2,7 @@
 
 
 ### Description : Top 3 International Melbourne (Tournoi IRL)
+### Source : http://limitlesstcg.com/decks/?list=1945 
 
 
 ****** Liste de deck du JCC Pokémon ******
