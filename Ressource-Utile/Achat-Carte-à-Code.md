@@ -14,4 +14,4 @@
 
 <br>
 
-- https://www.cardmarket.com/en/Pokemon
+- https://guardiangamingtcgs.com/
