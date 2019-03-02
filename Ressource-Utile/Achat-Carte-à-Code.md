@@ -1,7 +1,3 @@
-- https://www.professor-oak.com/TCGOCodes-PHP/default.php?REFID=VB3AEA1CI6
-
-<br>
-
 - https://pikastore.fr/103-code-online (vous pouvez également essayer de le joindre sur discord en citant : Pikastore)
 
 <br>
@@ -15,3 +11,7 @@
 <br>
 
 - https://guardiangamingtcgs.com/
+
+<br>
+
+- https://www.professor-oak.com/TCGOCodes-PHP/default.php?REFID=VB3AEA1CI6
