@@ -665,8 +665,8 @@ exports.user107 ={
 "NmbTournoiWin":"",
 }
 exports.user108 ={
-"id":"2259119055555678529898984416",
-"idTcgo":"Bot-Test123569TCGO",
+"id":"",
+"idTcgo":"",
 "NmbTournoiFait":"",
 "NmbTournoiWin":"",
 }
