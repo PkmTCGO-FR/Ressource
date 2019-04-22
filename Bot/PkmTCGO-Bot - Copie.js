@@ -6,7 +6,7 @@ const Prefix='!';
 const PathDeckListe= "Deck-Liste";
 const bot = new Discord.Client();
 
-bot.login(process.env.OnPshellIn);
+bot.login(process.env.PremierPointTcgNon);
 
 bot.on('ready',function(){
     bot.user.setGame("Aide : "+Prefix+"gh");
@@ -97,23 +97,13 @@ bot.on('message', message => {
     if( (splitMessage[0] === Prefix+"Idtcg") || (splitMessage[0] === Prefix+"idtcg") ){
         
         if(splitMessage.length === 2){
-            var idUser, Longueur,
+            var idUser,
                 IdDiscord=splitMessage[1].replace('<@','').replace('>','').replace('!',''),
 				FilesUsers = require(PathFoldersObject+"/ClassMembreDiscord.js");
             
-            //------------ calcul de la longueur -----------------
-            for(var i=1;i <= 9999 ;i++){
-                if( ! FilesUsers['user'+i] ){ Longueur=i-1;break }
+            for(var i=1;i <= process.env.Longueur ;i++){
+                 if(FilesUsers['user'+i].id === IdDiscord){ idUser = FilesUsers['user'+i].idTcgo; break}
             }
-            //------------ calcul de la longueur -----------------
-            
-            for(var i=1;i <= Longueur ;i++){
-                //console.log(i)
-                if(FilesUsers['user'+i].id === IdDiscord){
-                    idUser = FilesUsers['user'+i].idTcgo; console.log(idUser); break
-                }
-            }
-            
             if(idUser){
                 message.channel.sendMessage(idUser)
             }else{
@@ -122,7 +112,6 @@ bot.on('message', message => {
         }
     }
 })
-//-------------- obtient le pseudo tcgo ----------------
 
 
 
