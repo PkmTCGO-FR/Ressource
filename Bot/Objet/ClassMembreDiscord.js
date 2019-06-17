@@ -682,3 +682,21 @@ exports.user110 ={
 "NmbTournoiFait":"",
 "NmbTournoiWin":"",
 }
+exports.user111 ={
+"id":"582300284571746356",
+"idTcgo":"PurpleAngel01",
+"NmbTournoiFait":"",
+"NmbTournoiWin":"",
+}
+exports.user112 ={
+"id":"",
+"idTcgo":"",
+"NmbTournoiFait":"",
+"NmbTournoiWin":"",
+}
+exports.user113 ={
+"id":"",
+"idTcgo":"",
+"NmbTournoiFait":"",
+"NmbTournoiWin":"",
+}
