@@ -4,7 +4,7 @@
 
 Le type de format importe peu, donc vous pouvez adapter votre deck au format illimité.
 
-Il consiste à interdire l'utilisation des cartes turbo, EX et GX.
+Il consiste à interdire l'utilisation des cartes rule box (EX, GX, V, ...) et turbo.
 
 Le deck doit être composé de : 20 Pokémon - 20 Dresseurs - 20 Énergie.
 
