@@ -10,7 +10,7 @@ Le deck doit être composé de : 20 Pokémon - 20 Dresseurs - 20 Énergie.
 
 Il est interdit de jouer plus de 2 fois les mêmes cartes qui ont les mêmes effets de carte que ce soit : une carte Pokémon, une carte Dresseur ou une carte Énergie spéciale !
 
-Par exemple, si vous jouer 2 professeures Platane, vous ne pouvez ajouter 1 recherche professorale.
+Par exemple, si vous jouer 2 professeures Platane, vous ne pouvez ajouter qu'un recherche professorale.
 
 
 <br><br>
