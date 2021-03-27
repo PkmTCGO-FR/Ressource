@@ -13,6 +13,8 @@ Il est interdit de jouer plus de 2 fois les mêmes cartes qui ont les mêmes eff
 Par exemple, si vous jouer 2 professeures Platane, vous ne pouvez ajouter qu'un recherche professorale.
 
 
+<br><br>
+
 
 # PROF-CUP Remixed (non-officiel)
 
