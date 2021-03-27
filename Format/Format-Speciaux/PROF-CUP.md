@@ -13,6 +13,22 @@ Il est interdit de jouer plus de 2 fois les mêmes cartes qui ont les mêmes eff
 Par exemple, si vous jouer 2 professeures Platane, vous ne pouvez ajouter qu'un recherche professorale.
 
 
+
+# PROF-CUP Remixed (non-officiel)
+
+<br>
+
+Il consiste à interdire l'utilisation des cartes Rule box (EX, GX, V, ...).
+Les Turbos et Prismes sont autorisées.
+
+Il est interdit de jouer plus de 2 fois les mêmes cartes qui ont les mêmes : Effets, PV et Attaque.
+Les énergies de base n'ont pas de limite !
+
+Par exemple, si vous jouer 1 professeure Platane, vous ne pouvez ajouter qu'un recherche professorale.
+
+Pour connaître plus de détails sur le fonctionnement du PROF-CUP, cliquer sur cette image : 
+
+
 <br><br>
 
 ### Même Carte :
